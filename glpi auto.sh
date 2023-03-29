@@ -6,4 +6,3 @@ sudo apt install -y nano
 sudo cd /etc/fusioninventory/
 sudo rm -f agent.cfg
 wget https://github.com/flavio-geovendas/GLPI-files/blob/main/agent.cfg
-aa
